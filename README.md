@@ -6,7 +6,7 @@ Our primary focus is on developing software that operates locally, without an in
 
 Our goal is to develop functional software with free versions that work well without collecting user data. The paid versions will be one-time purchases, with no subscriptions, and will not alter the service but simply enhance it, ensuring that the free version remains fully functional and not limited.
 
-Founded on August 10, 2024, in Brazil by @georgejrdev
+Founded on August 10, 2024, in Brazil by [George Júnior](https://github.com/georgejrdev).
 
 <hr>
 
