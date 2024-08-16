@@ -11,6 +11,6 @@ Founded on August 10, 2024, in Brazil by [George Júnior](https://github.com/geo
 <hr>
 
 ### Products:
+- [Workflow]()
+- [Clear Syntax]()
 - [Focus]()
-- [Medicine Time](https://github.com/georgejrdev/Medicine-Time)
-- [Post Its](https://play.google.com/store/apps/details?id=com.georgejrdev.postits)
